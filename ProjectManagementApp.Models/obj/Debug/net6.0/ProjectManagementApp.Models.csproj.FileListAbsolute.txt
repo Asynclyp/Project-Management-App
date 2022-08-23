@@ -1,0 +1,12 @@
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\bin\Debug\net6.0\ProjectManagementApp.Models.deps.json
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\bin\Debug\net6.0\ProjectManagementApp.Models.dll
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\bin\Debug\net6.0\ProjectManagementApp.Models.pdb
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\obj\Debug\net6.0\ProjectManagementApp.Models.csproj.AssemblyReference.cache
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\obj\Debug\net6.0\ProjectManagementApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\obj\Debug\net6.0\ProjectManagementApp.Models.AssemblyInfoInputs.cache
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\obj\Debug\net6.0\ProjectManagementApp.Models.AssemblyInfo.cs
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\obj\Debug\net6.0\ProjectManagementApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\obj\Debug\net6.0\ProjectManagementApp.Models.dll
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\obj\Debug\net6.0\refint\ProjectManagementApp.Models.dll
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\obj\Debug\net6.0\ProjectManagementApp.Models.pdb
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Models\obj\Debug\net6.0\ref\ProjectManagementApp.Models.dll

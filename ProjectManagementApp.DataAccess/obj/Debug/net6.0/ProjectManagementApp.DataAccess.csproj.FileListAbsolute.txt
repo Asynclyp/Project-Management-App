@@ -1,0 +1,17 @@
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\ProjectManagementApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\ProjectManagementApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\ProjectManagementApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\ProjectManagementApp.DataAccess.AssemblyInfo.cs
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\ProjectManagementApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\bin\Debug\net6.0\ProjectManagementApp.DataAccess.deps.json
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\bin\Debug\net6.0\ProjectManagementApp.DataAccess.runtimeconfig.json
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\bin\Debug\net6.0\ProjectManagementApp.DataAccess.dll
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\bin\Debug\net6.0\ProjectManagementApp.DataAccess.pdb
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\bin\Debug\net6.0\ProjectManagementApp.Models.dll
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\bin\Debug\net6.0\ProjectManagementApp.Models.pdb
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\ProjectManagementApp.DataAccess.csproj.CopyComplete
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\ProjectManagementApp.DataAccess.dll
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\refint\ProjectManagementApp.DataAccess.dll
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\ProjectManagementApp.DataAccess.pdb
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\ProjectManagementApp.DataAccess.genruntimeconfig.cache
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.DataAccess\obj\Debug\net6.0\ref\ProjectManagementApp.DataAccess.dll

@@ -1,0 +1,12 @@
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\bin\Debug\net6.0\ProjectManagementApp.Utility.deps.json
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\bin\Debug\net6.0\ProjectManagementApp.Utility.dll
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\bin\Debug\net6.0\ProjectManagementApp.Utility.pdb
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\obj\Debug\net6.0\ProjectManagementApp.Utility.csproj.AssemblyReference.cache
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\obj\Debug\net6.0\ProjectManagementApp.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\obj\Debug\net6.0\ProjectManagementApp.Utility.AssemblyInfoInputs.cache
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\obj\Debug\net6.0\ProjectManagementApp.Utility.AssemblyInfo.cs
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\obj\Debug\net6.0\ProjectManagementApp.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\obj\Debug\net6.0\ProjectManagementApp.Utility.dll
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\obj\Debug\net6.0\refint\ProjectManagementApp.Utility.dll
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\obj\Debug\net6.0\ProjectManagementApp.Utility.pdb
+C:\Users\ldzlyp\Desktop\CS Projects\ProjectManagementApp\ProjectManagementApp.Utility\obj\Debug\net6.0\ref\ProjectManagementApp.Utility.dll
