@@ -14,5 +14,7 @@ namespace ProjectManagementApp.DataAccess
 
         public DbSet<Tag> Tags { get; set; }
 
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+
     }
 }

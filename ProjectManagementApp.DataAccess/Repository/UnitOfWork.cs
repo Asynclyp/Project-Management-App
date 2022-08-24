@@ -10,7 +10,7 @@ namespace ProjectManagementApp.DataAccess.Repository
     public class UnitOfWork : IUnitOfWork
     {
         private ApplicationDBContext _db;
-        public ITagRepository Tag { get; private set; }
+       
 
         //Constructor
         public UnitOfWork(ApplicationDBContext db)
@@ -18,6 +18,8 @@ namespace ProjectManagementApp.DataAccess.Repository
             _db = db;
             Tag = new TagRepository(_db);
         }
+
+        public ITagRepository Tag { get; private set; }
 
         public void Save()
         {
