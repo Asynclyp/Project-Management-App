@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ProjectManagementApp.DataAccess;
+using ProjectManagementApp.DataAccess.Repository;
+using ProjectManagementApp.DataAccess.Repository.IRepository;
 using ProjectManagementApp.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,7 +11,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDBContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")
 ));
-
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
